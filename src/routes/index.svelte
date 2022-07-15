@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+import Header from "./header.svelte";
+import Head from "./head.svelte";
+import Nav from "./nav.svelte"
+import ZhKCard from "./zh_k_card.svelte";
+</script>
+<Head/>
+<Header/>
+<Nav/>
+<ZhKCard img_src={"fffff"} name={"ЖК Фонтаны"} descr={"Ваще клевый жк, мамой клянусь"}/> 
