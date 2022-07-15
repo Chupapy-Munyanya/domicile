@@ -3,6 +3,9 @@ import Header from "./header.svelte";
 import Head from "./head.svelte";
 import Nav from "./nav.svelte"
 import ZhKCard from "./zh_k_card.svelte";
+let fetchApartments = async () => {
+    const url = "https://"
+}
 </script>
 <Head/>
 <Header/>
