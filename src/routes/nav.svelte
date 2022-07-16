@@ -14,12 +14,9 @@
         </form>
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                <li class="nav-item"><a href="team.html" class="nav-link">Our team</a></li>
-                <li class="nav-item"><a href="project.html" class="nav-link">Project</a></li>
-                <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item active"><a href="index.html" class="nav-link">Жильё</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">Жильцам</a></li>
+                <li class="nav-item"><a href="team.html" class="nav-link">Сотрудничество</a></li>
             </ul>
         </div>
     </div>
