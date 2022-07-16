@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
 
     <link rel="stylesheet" href="css/ionicons.min.css">
-    
+    <script src="https://kit.fontawesome.com/72c30770b3.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
